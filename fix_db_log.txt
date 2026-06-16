@@ -1,0 +1,1 @@
+Success! Updated email to admin@platform.com. Rows affected: 1

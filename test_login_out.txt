@@ -1,0 +1,2 @@
+statusCode: 200
+{"message":"Login successful","user":{"id":1,"name":"System Administrator","email":"admin@platform.com","role":"Admin"},"token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkFkbWluIiwiaWF0IjoxNzc3NjMzOTA2LCJleHAiOjE3Nzc3MjAzMDZ9.EHSUlmPZg4uIk67WUUQ84L9LcAwHtHRPmeBvvp4WNPA"}

@@ -1,0 +1,10 @@
+[dotenv@17.3.1] injecting env (4) from .env -- tip: ??????  load multiple .env files with { path: ['.env.local', '.env'] }
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ???? prevent committing .env to code: https://dotenvx.com/precommit
+???? Starting email test...
+???? Using SMTP_USER: sucila7010@gmail.com
+
+??? EMAIL TEST SUCCESSFUL!
+> MESSAGE ID: <d0b20516-3a9d-25b7-8098-ff32392ee4ad@gmail.com>
+> RESPONSE: 250 2.0.0 OK  1775036026 d2e1a72fcca58-82cec36da5fsm2962778b3a.2 - gsmtp
+===============================
+

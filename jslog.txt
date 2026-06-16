@@ -1,0 +1,19 @@
+Starting seed_admin.js script
+Inside seed function
+Hash generated
+Error selecting: SQLITE_ERROR: no such table: users
+Starting seed_admin.js script
+Inside seed function
+Hash generated
+Existing users count: 9
+admin@platform.com Admin
+alumni@test.com Alumni
+sucila7010@gmail.com Alumni
+sucilaarumugam70@gmail.com Student
+arumugaselvan9442@gmail.com Alumni
+mbalamuruganmurugan0@gmail.com Alumni
+tritontechlab2025@gamil.com Student
+ponclinton.a@gmail.com Student
+kvarsh2004@gmail.com Student
+Admin account ready: admin@platform.com / admin123
+Admin account ready: admin@gmail.com / admin123

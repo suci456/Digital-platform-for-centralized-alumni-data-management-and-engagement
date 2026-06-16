@@ -1,0 +1,3 @@
+Started script
+Hash generated
+Success! Updated 1 rows.

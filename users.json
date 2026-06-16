@@ -1,0 +1,47 @@
+[
+  {
+    "name": "System Administrator",
+    "email": "admin@platform.com",
+    "role": "Admin"
+  },
+  {
+    "name": "Test Alumni",
+    "email": "alumni@test.com",
+    "role": "Alumni"
+  },
+  {
+    "name": "A SUCILA",
+    "email": "sucila7010@gmail.com",
+    "role": "Alumni"
+  },
+  {
+    "name": "suciarumugam",
+    "email": "sucilaarumugam70@gmail.com",
+    "role": "Student"
+  },
+  {
+    "name": "Arumugaselvan",
+    "email": "arumugaselvan9442@gmail.com",
+    "role": "Alumni"
+  },
+  {
+    "name": "Madhusri",
+    "email": "mbalamuruganmurugan0@gmail.com",
+    "role": "Alumni"
+  },
+  {
+    "name": "SUBITHA",
+    "email": "tritontechlab2025@gamil.com",
+    "role": "Student"
+  },
+  {
+    "name": "Clinton ",
+    "email": "ponclinton.a@gmail.com",
+    "role": "Student"
+  },
+  {
+    "name": "varsha",
+    "email": "kvarsh2004@gmail.com",
+    "role": "Student"
+  }
+]
